@@ -28,7 +28,7 @@ export default function Header() {
             Chollos de vuelos hoy
           </h2>
           <p className="text-base sm:text-xl text-slate-300 max-w-2xl">
-            Detectamos vuelos por debajo del precio habitual. Compra en un clic.
+            Detectamos vuelos por debajo del precio habitual. Solo para los que se calientan.
           </p>
         </div>
 
